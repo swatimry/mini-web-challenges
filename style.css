@@ -1,0 +1,52 @@
+body{
+    background-color: #003366;
+}
+.wrongans{
+    background-color: red;
+}
+.heading{
+   text-align: center;
+   margin-top: 5%;
+   color: white;
+ font-family: 'Press Start 2P', cursive;;
+}
+.btn{
+    margin: 20px;
+    display: inline-block;
+   border: 3px solid black;
+    border-radius: 10%;
+    height: 200px;
+    width: 200px;
+
+}
+.row{
+    align-items: center;
+    display: inline-block;
+    width: 100%;
+}
+.red{
+    background-color: red;
+ 
+    
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.container{
+   
+    align-items: center;
+    width: 35%;
+    display: block;
+    margin: auto;
+}
+.pr{
+   opacity: 0.8%;
+    
+}
+
