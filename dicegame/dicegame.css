@@ -1,0 +1,8 @@
+body{
+  text-align: center;
+  align-items: center;
+    padding: 10%;
+    background-image: linear-gradient(to right,rgb(218, 12, 111),rgb(18, 168, 179));
+    font-family: cursive;
+    color: aliceblue;
+}
